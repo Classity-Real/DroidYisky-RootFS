@@ -6,11 +6,11 @@
     "description": "Alpine Linux v3.23 rootfs with basic packages, development tools, Python, and Docker.",
     "architecture": "aarch64",
     "file": "Alpine-base",
-    "download_url": "https://github.com/Classity-Real/DroidYisky-RootFS/releases/download/v20260920-043805/Alpine-base-Droidspaces-rootfs-aarch64-20260920-v20260920-043805.tar.xz",
-    "sha256": "1f3dbe1e642ac47884a00f3ecd8d4745a58575426471a88596da38067341841a",
-    "size_bytes": 235073724,
-    "version": "v20260920-043805",
-    "build_date": "20260920"
+    "download_url": "https://github.com/Classity-Real/DroidYisky-RootFS/releases/download/v20261014-100432/Alpine-base-Droidspaces-rootfs-aarch64-20261014-v20261014-100432.tar.xz",
+    "sha256": "78b22002a32b1f76815efb053a681068a8a4dd42d554699bc20dc4740f23921c",
+    "size_bytes": 235257736,
+    "version": "v20261014-100432",
+    "build_date": "20261014"
   },
   {
     "author": "Droidspaces developers",
@@ -19,10 +19,23 @@
     "description": "Minimal Alpine Linux v3.23 rootfs with basic packages.",
     "architecture": "aarch64",
     "file": "Alpine-Minimal",
-    "download_url": "https://github.com/Classity-Real/DroidYisky-RootFS/releases/download/v20260920-043805/Alpine-Minimal-Droidspaces-rootfs-aarch64-20260920-v20260920-043805.tar.xz",
-    "sha256": "b2b1e4e3ae328a01ab71032b11d97cc9bc27d959418f2e385aec6b79da4373b8",
-    "size_bytes": 10123280,
-    "version": "v20260920-043805",
-    "build_date": "20260920"
+    "download_url": "https://github.com/Classity-Real/DroidYisky-RootFS/releases/download/v20261014-100432/Alpine-Minimal-Droidspaces-rootfs-aarch64-20261014-v20261014-100432.tar.xz",
+    "sha256": "1be1fb60a13cd127626e5315e748ae57e940e40acadc1c84c984ac5dab28382d",
+    "size_bytes": 10129604,
+    "version": "v20261014-100432",
+    "build_date": "20261014"
+  },
+  {
+    "author": "Droidspaces developers",
+    "name": "Alpine Linux v3.23 - XFCE",
+    "distro": "Alpine",
+    "description": "Alpine Linux v3.23 rootfs with basic packages, development tools, Docker, and XFCE desktop environment.",
+    "architecture": "aarch64",
+    "file": "Alpine-XFCE",
+    "download_url": "https://github.com/Classity-Real/DroidYisky-RootFS/releases/download/v20261014-100432/Alpine-XFCE-Droidspaces-rootfs-aarch64-20261014-v20261014-100432.tar.xz",
+    "sha256": "9304f64440239a1362f456d65520ba4c6ad1d4c97ebd200e2f502e53413d5d38",
+    "size_bytes": 382385824,
+    "version": "v20261014-100432",
+    "build_date": "20261014"
   }
 ]
